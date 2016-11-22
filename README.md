@@ -11,7 +11,7 @@ selenium webdriver adapter.
 # Description
 
 `chromedriver-helper` installs an executable, `chromedriver`, in your
-gem path.
+gem path..
 
 This script will, if necessary, download the appropriate binary for
 your platform and install it into `~/.chromedriver-helper`, then exec
